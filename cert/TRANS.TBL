@@ -1,0 +1,7 @@
+F VBOXCERTUTIL.EXE;1	VBoxCertUtil.exe
+F VBOXSHA1.CER;1	vbox-sha1.cer
+F VBOXSHA1ROOT.CER;1	vbox-sha1-root.cer
+F VBOXSHA1TIMESTAMPROOT.CER;1	vbox-sha1-timestamp-root.cer
+F VBOXSHA256.CER;1	vbox-sha256.cer
+F VBOXSHA256ROOT.CER;1	vbox-sha256-root.cer
+F VBOXSHA256TIMESTAMPROOT.CER;1	vbox-sha256-timestamp-root.cer
