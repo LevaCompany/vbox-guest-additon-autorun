@@ -1,0 +1,14 @@
+F AUTORUN.INF;1	AUTORUN.INF
+F AUTORUN.SH;1	autorun.sh
+D CERT        	cert
+D NT3X        	NT3x
+D OS2         	OS2
+F RUNASROOT.SH;1	runasroot.sh
+F VBOXDARWINADDITIONS.PKG;1	VBoxDarwinAdditions.pkg
+F VBOXDARWINADDITIONSUNINST.TOO;1	VBoxDarwinAdditionsUninstall.tool
+F VBOXLINUXADDITIONS.RUN;1	VBoxLinuxAdditions.run
+F VBOXSOLARISADDITIONS.PKG;1	VBoxSolarisAdditions.pkg
+F VBOXWINDOWSADDITIONS.EXE;1	VBoxWindowsAdditions.exe
+F VBOXWINDOWSADDITIONSAMD64.EXE;1	VBoxWindowsAdditions-amd64.exe
+F VBOXWINDOWSADDITIONSX86.EXE;1	VBoxWindowsAdditions-x86.exe
+F WINDOWS11BYPASS.REG;1	windows11-bypass.reg
